@@ -1,7 +1,7 @@
 # 80-cereals
 *80 cereals* is a dataset which contains nutrition data on 80 different cereal products. The source of the dataset can be found [here](https://www.kaggle.com/datasets/crawford/80-cereals).
 
-This repository contains the report of a simple descriptive statistical analysis performed on the dataset, which includes:
+This repository contains the R source code and the report of a simple descriptive statistical analysis performed on the dataset, which includes:
 
 -Calculation of common numerical measures (mean, variance, standard deviation) for each of the nutrients
 
