@@ -1,5 +1,3 @@
-![Socialify](https://github.com/giovanni-cutri/80-cereals/blob/main/resources/socialify-logo.png)
-
 # 80-cereals
 *80 cereals* is a dataset which contains nutrition data on 80 different cereal products. The source of the dataset can be found [here](https://www.kaggle.com/datasets/crawford/80-cereals).
 
